@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rone-oliver/CMS-FRONTEND.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rone-oliver/CMS-BACKEND.git
